@@ -25,15 +25,15 @@ global.botname = "Faded 😘💕Natasha"
 global.author = "𝙋𝙄𝙆𝘼"  
 global.packname = "𝙌𝙐𝙀𝙀𝙉✯𝘼𝙉𝙔𝘼✯𝘽𝙊𝙏"  
 global.myweb = "https://github.com/PikaBotz" // You can put any link 
-global.waterMark = "×͜× King ✘ Pika™ ✓" // Your own watermark 
-global.footer = "© Queen Anya Bot"
+global.waterMark = "×͜× Faded ✘ Reagan™ ✓" // Your own watermark 
+global.footer = "© Faded 😘♥️💕Natasha Bot"
 global.prefa = ['-'] // single prefix
 global.themeemoji = '🔥'
 global.socialText = `*⪧⪢ Please join this group for by bot's announcement.*`
 global.socialLink = `*⪧⪢ https://chat.whatsapp.com/HshHS6kHF9NHnA9lfMwwSM 💝*`
 
 
-global.ownername = "𝕻𝖎𝖐𝖆♰𝕶𝖚𝖓"   // Owner name //        
+global.ownername = "『мR』𝕳𝖆𝖈𝖐𝖊𝖗『Reagan』☯"   // Owner name //        
 global.ownernumber = ['254745386620'] 
 global.socialm = "𝗜𝗻𝘀𝘁𝗮 : f.a.d.e.d_r.e.a.g.a.n" // 𝗜𝗻𝘀𝘁𝗮 : || 𝗚𝗶𝘁𝗵𝘂𝗯 : || 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 : \\
 global.ytname = "YT: Ytname"   // Yt chanel name //
