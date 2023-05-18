@@ -21,7 +21,7 @@ global.lApiKey = [ // if this API key get expired then please go to https://api.
 ]
 
 
-global.botname = "Queen Anya" 
+global.botname = "Faded 😘💕Natasha" 
 global.author = "𝙋𝙄𝙆𝘼"  
 global.packname = "𝙌𝙐𝙀𝙀𝙉✯𝘼𝙉𝙔𝘼✯𝘽𝙊𝙏"  
 global.myweb = "https://github.com/PikaBotz" // You can put any link 
@@ -34,16 +34,16 @@ global.socialLink = `*⪧⪢ https://chat.whatsapp.com/HshHS6kHF9NHnA9lfMwwSM �
 
 
 global.ownername = "𝕻𝖎𝖐𝖆♰𝕶𝖚𝖓"   // Owner name //        
-global.ownernumber = ['918811074852'] 
-global.socialm = "𝗜𝗻𝘀𝘁𝗮 : 3.69_pika" // 𝗜𝗻𝘀𝘁𝗮 : || 𝗚𝗶𝘁𝗵𝘂𝗯 : || 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 : \\
+global.ownernumber = ['254745386620'] 
+global.socialm = "𝗜𝗻𝘀𝘁𝗮 : f.a.d.e.d_r.e.a.g.a.n" // 𝗜𝗻𝘀𝘁𝗮 : || 𝗚𝗶𝘁𝗵𝘂𝗯 : || 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 : \\
 global.ytname = "YT: Ytname"   // Yt chanel name //
-global.continent = "Asia" // your continent name 
-global.region = "India" // your country name
-global.state = "Assam" // your state name
-global.district = "Dibrugarh" // your district name
+global.continent = "Africa" // your continent name 
+global.region = "Kenya" // your country name
+global.state = "Mumias" // your state name
+global.district = "Ekero" // your district name
 global.timezone = "Asia/Kolkata" // search on google if you don't know the timezone of your country //
-global.instagramId = "3.69_pika" // Your insta ID
-global.email = "example@exmaple.com" // put your email here
+global.instagramId = "f.a.d.e.d_r.e.a.g.a.n" // Your insta ID
+global.email = "reaganjumah002@gmail.com" // put your email here
 
 
 // Greeting messages
@@ -54,7 +54,7 @@ global.greet4 = "Good night 😴" // after 8:30 PM
 
 
 //------------ 🌟 Premium Users 🌟-------------\\
-global.premium = ['916900******','917355******']  // available soon
+global.premium = ['254745386620','917355******']  // available soon
 global.sudo = ['916900******','91881107****']  // Co - Owners
 
 
