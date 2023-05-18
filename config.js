@@ -41,7 +41,7 @@ global.continent = "Africa" // your continent name
 global.region = "Kenya" // your country name
 global.state = "Mumias" // your state name
 global.district = "Ekero" // your district name
-global.timezone = "Asia/Kolkata" // search on google if you don't know the timezone of your country //
+global.timezone = "Africa/Nairobi" // search on google if you don't know the timezone of your country //
 global.instagramId = "f.a.d.e.d_r.e.a.g.a.n" // Your insta ID
 global.email = "reaganjumah002@gmail.com" // put your email here
 
